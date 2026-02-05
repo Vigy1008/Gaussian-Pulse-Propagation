@@ -11,9 +11,8 @@ An optical fiber can be represented approximately by a linear system with an imp
 
 If the optical source has a spectral width much greater than the signal bandwidth (e.g., the source is a directly modulated laser diode) and the operating wavelength is far from the zero-dispersion wavelength, then \(H(j\omega)\) is approximately Gaussian:
 
-\[
-H(\omega) = \exp(-\omega^2 T_F^2)
-\]
+<img width="410" height="76" alt="image" src="https://github.com/user-attachments/assets/ef92c0e2-ad7b-4f0f-9c2e-bd9920cda083" />
+
 
 where \(T_F\) is the RMS width of the impulse response, given approximately by:
 
