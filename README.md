@@ -65,10 +65,19 @@ Place and connect the following components:
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
 
-
----
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
+## TABULATION
+![WhatsApp Image 2026-02-12 at 7 02 17 PM](https://github.com/user-attachments/assets/037236db-ab18-407e-b780-8011a36c6467)
+
+
+## GRAPH
+<img width="1920" height="1080" alt="Screenshot 2026-02-11 111109" src="https://github.com/user-attachments/assets/c5b70a71-4dbb-4418-959f-406db4e7ba6a" />
+
+## RESULT
+Hence we successfully obtained  and predicted by the linear system model of an optical fiber with the results of simulation.
+
+
 
 
 
