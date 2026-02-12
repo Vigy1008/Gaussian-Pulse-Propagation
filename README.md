@@ -4,8 +4,6 @@
 ## Objective
 Compare the results predicted by the linear system model of an optical fiber with the results of simulation.
 
----
-
 ## Theory
 An optical fiber can be represented approximately by a linear system with an impulse response \(h(t)\) or a transfer function \(H(j\omega)\).  
 
@@ -13,17 +11,10 @@ If the optical source has a spectral width much greater than the signal bandwidt
 
 <img width="1482" height="1120" alt="image" src="https://github.com/user-attachments/assets/83f63473-b1b3-4afc-ad17-9e9850041cae" />
 
-
----
-
 ### Output Pulse Broadening
 If a Gaussian pulse is input to a linear system with a Gaussian impulse response, the output is also Gaussian with RMS width:
 
 <img width="340" height="102" alt="image" src="https://github.com/user-attachments/assets/c60d35c1-8a0f-4c50-873d-1314ec59a29f" />
-
-
-
----
 
 ## Calculations
 **System Parameters:**
@@ -43,25 +34,16 @@ If a Gaussian pulse is input to a linear system with a Gaussian impulse response
 - RMS width of fiber impulse response (\(T_F\))  
 - RMS width of pulse at fiber far end (\(T_{out}\))  
 
----
-
 ## Layout
 Place and connect the following components:
 1. **User-defined bit sequence generator** – set to generate a single pulse of the specified width  
 2. **Optical Gaussian pulse generator** – enter the chirp factor as a negative number  
-3. **Optical fiber** – set according to specifications  
-4. **Optical spectrum analyzers** and **optical time domain visualizers** at input and output of fiber  
-
----
 
 ## Simulation
 - Set the parameters and run the simulation.  
 - Use the visualizer displays to measure:  
   - FWHM width of input and output pulses  
-  - FWHM width of optical spectra  
-
----
-
+ 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
 
