@@ -72,7 +72,7 @@ Compare the simulation results with the theoretical calculations and discuss any
 
 
 ## GRAPH
-<img width="1920" height="1080" alt="Screenshot 2026-02-11 111109" src="https://github.com/user-attachments/assets/c5b70a71-4dbb-4418-959f-406db4e7ba6a" />
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/38e30b01-280e-417e-9666-542113a01f13" />
 
 ## RESULT
 Hence we successfully obtained  and predicted by the linear system model of an optical fiber with the results of simulation.
